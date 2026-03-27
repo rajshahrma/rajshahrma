@@ -119,3 +119,7 @@ You’ll find some of this thinking reflected in my repositories.
 ---
 
 ⭐ **If something here helped you think better about systems or leadership, feel free to give a repo a star.**
+
+![AI](https://img.shields.io/badge/Focus-Agentic%20AI-black)
+![RAG](https://img.shields.io/badge/System-RAG-blue)
+![Multi-Agent](https://img.shields.io/badge/Architecture-Multi--Agent-purple)
