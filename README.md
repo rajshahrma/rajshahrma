@@ -1,6 +1,6 @@
 ## Hi, I'm Raj 👋 
-Zero-to-Scale Technology Leader• Systems Thinker • Product-Driven Engineer
----
+**Zero-to-Scale Technology Leader• Systems Thinker • Product-Driven Engineer**
+
 I build and scale high-impact technology platforms - from **0 → 1 → 10 → Scale** — across fintech, commerce, and Exploring AI.
 
 Most of my work is **hands-on architecture + real systems**: distributed platforms, microservices, event-driven systems, and now exploring **AI Agents, RAG, and intelligent workflows**.
@@ -23,11 +23,10 @@ Now:
 - Advising startups on **scalable architecture & platform strategy**
 - Building **AI-first products and systems**
 - Exploring **CTO / Head of Engineering roles in product-led companies**
-- 
-### Philosophy
-> Build systems that scale.  > Build teams that think.  > Build products that matter.  
+  
+**Philosophy** : > Build systems that scale.  > Build teams that think.  > Build products that matter.  
 
-## Connect with me
+**Connect with me**
 - 💼 LinkedIn: https://linkedin.com/in/rajshahrma  
 - 📧 Email: raj.shahrma@gmail.com  
 
