@@ -15,36 +15,7 @@
   <img src="https://img.shields.io/badge/Experience-20%2B_years-success">
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20People-informational">
 </p>
-
-## 🚀 Featured Systems
-
-<p align="center">
-
-<a href="https://github.com/rajshahrma/agentic-rag-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajshahrma&repo=agentic-rag-engine&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/rajshahrma/multiagent-finance-team">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajshahrma&repo=multiagent-finance-team&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/rajshahrma/memory-multi-llm-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajshahrma&repo=memory-multi-llm-system&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/rajshahrma/voice-conversation-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajshahrma&repo=voice-conversation-engine&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/rajshahrma/rag-diagnostics-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajshahrma&repo=rag-diagnostics-lab&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/rajshahrma/blueprint-agent-architecture">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajshahrma&repo=blueprint-agent-architecture&theme=tokyonight" />
-</a>
-
-</p>
+ 
 ---
 
 ## 🧠 How I Think
